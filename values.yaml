@@ -47,7 +47,7 @@ ingress:
       option httpchk GET /deployit/ha/health HTTP/1.0
   path: /xl-deploy/
   hosts:
-    - a9f40f0e345cc412d843c061405e7c97-1608119072.us-west-2.elb.amazonaws.com
+    - a8f45bee3b68d42afa5c93b7efcc339f-972050886.us-west-2.elb.amazonaws.com
 
 #  tls:
 #    - secretName: example-secretsName
